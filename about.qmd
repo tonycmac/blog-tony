@@ -9,7 +9,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/tonycmac/
+comments: false
 
 ---
 
-Tony Machado is the Deputy Director of Data and Client Services at Measurement Canada. When not playing with data, Tony enjoys trail running and chasing after his 2 year old toddler.
+Tony Machado is the Deputy Director of Data and Client Services at Measurement Canada. 
+
+When not playing with data, Tony enjoys trail running and chasing after his 2 year old toddler.
