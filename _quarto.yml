@@ -8,7 +8,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/tonycmac
       - icon: envelope
         href: mailto:tonycmachado@gmail.com
   page-footer:
@@ -17,6 +17,11 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
+    toc: true
+    code-link: true
 comments:
   giscus:
     repo: tonycmac/blog-tony
