@@ -6,6 +6,8 @@ about:
   links:
     - icon: envelope
       href: mailto:tonycmachado@gmail.com
+    - icon: strava
+      href: https://www.strava.com/athletes/7286540
     # - icon: github
     #   text: Github
     #   href: https://github.com/tonycmac/

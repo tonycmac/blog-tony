@@ -7,8 +7,6 @@ website:
   navbar:
     right:
       - about.qmd
-      # - icon: github
-      #   href: https://github.com/tonycmac
       - icon: envelope
         href: mailto:tonycmachado@gmail.com
   page-footer:
