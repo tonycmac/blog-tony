@@ -1,6 +1,6 @@
 ---
 title: "Tony Machado"
-image: profile.jpg # update with a proper pic eventually
+image: headshot.png
 about:
   template: jolla
   links:
