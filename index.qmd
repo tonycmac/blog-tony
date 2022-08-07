@@ -3,8 +3,8 @@ title: "blog-tony"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  categories: true
+  type: default #grid might be nice as I get more content
+  categories: false #if true, options are numbered, unnumbered, or cloud
   sort-ui: false
   filter-ui: false
 page-layout: full
