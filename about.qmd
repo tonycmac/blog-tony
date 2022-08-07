@@ -6,9 +6,9 @@ about:
   links:
     - icon: envelope
       href: mailto:tonycmachado@gmail.com
-    - icon: github
-      text: Github
-      href: https://github.com/tonycmac/
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/tonycmac/
 comments: false
 
 ---
