@@ -6,8 +6,22 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
+# Level 1 heading
+
 This is a post with executable code.
 
 ```{r}
 1 + 1
 ```
+
+# L1 heading again
+
+## Level 2
+
+```{r}
+library(tidyverse)
+mtcars %>% 
+  ggplot(mpg, hp) +
+  geom_point()
+```
+
