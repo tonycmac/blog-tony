@@ -13,6 +13,6 @@ comments: false
 
 ---
 
-Tony Machado is the Deputy Director of Data and Client Services at Measurement Canada. 
+Tony Machado is the Deputy Director of Data and Client Services at [Measurement Canada](http://mc.gc.ca/). 
 
 When not playing with data, Tony enjoys trail running and chasing after his 2 year old toddler.
