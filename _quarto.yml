@@ -8,8 +8,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: envelope
+        href: mailto:tonycmachado@gmail.com
   page-footer:
     left: "Blog made with 💜 and [Quarto](https://quarto.org/), by Tony Machado. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
 format:
