@@ -21,7 +21,7 @@ This is a post with executable code.
 ```{r}
 library(tidyverse)
 mtcars %>% 
-  ggplot(mpg, hp) +
+  ggplot(aes(mpg, hp)) +
   geom_point()
 ```
 
