@@ -1,0 +1,35 @@
+---
+title: "My Post"
+description: "Post description"
+author: "Fizz McPhee"
+date: "2022-08-07"
+categories: 
+  - news
+draft: true
+---
+
+# Level 1 heading
+
+Placeholder text
+
+```{r}
+2+4
+```
+
+# Another heading
+
+Wow!
+
+## This could work
+
+```{r}
+#| include: false
+library(tidyverse)
+```
+
+What if we try stuff
+
+```{r}
+mtcars
+```
+

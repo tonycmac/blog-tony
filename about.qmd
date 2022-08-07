@@ -3,6 +3,7 @@ title: "Tony Machado"
 image: headshot.png
 about:
   template: jolla
+  image-shape: round
   links:
     - icon: envelope
       href: mailto:tonycmachado@gmail.com
