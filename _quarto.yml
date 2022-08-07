@@ -1,8 +1,9 @@
 project:
   type: website
-
 website:
-  title: "blog-tony"
+  title: "Placeholder for Tony Machado's Blog"
+  site-url: "https://tonymachado.netlify.app/"
+  google-analytics: "G-XX9ZHZC18Z"
   navbar:
     right:
       - about.qmd
