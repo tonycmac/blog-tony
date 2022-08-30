@@ -10,10 +10,12 @@ website:
       - icon: envelope
         href: mailto:tonycmachado@gmail.com
   page-footer:
-    left: "Blog made with 💜 and [Quarto](https://quarto.org/), by Tony Machado. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+    left: "Blog made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/), by Tony Machado. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo #litera
+      dark: darkly
     css: styles.css
     smooth-scroll: true
     link-external-icon: false
