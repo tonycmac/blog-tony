@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tonymachado.netlify.app/index.html</loc>
+    <lastmod>2022-09-02T13:23:43.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tonymachado.netlify.app/about.html</loc>
+    <lastmod>2022-09-02T12:34:43.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tonymachado.netlify.app/LICENSE.html</loc>
+    <lastmod>2022-09-02T12:33:29.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tonymachado.netlify.app/posts/post-with-code/index.html</loc>
+    <lastmod>2022-09-02T12:33:48.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tonymachado.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2022-09-02T12:33:54.998Z</lastmod>
+  </url>
+</urlset>
